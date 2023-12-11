@@ -3,7 +3,7 @@
         private $host = "localhost";
         private $dbname = "DB_ACCESSLINKER";
         private $username = "root";
-        private $password = "171822";
+        private $password = "";
 
         public function conexion(){
             try{
